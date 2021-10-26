@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* time */
+.conter{
+   display: flex;
+   height: 400px;
+   align-items: center;
+   justify-content: center;
+}
+#box{
+background-color: rgb(231 229 229);
+padding: 175px 150px;
+height: 50px;
+display: block;
+width: 100%;
+}
+#box p{
+margin-top: 35px;
+}
